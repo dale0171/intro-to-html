@@ -17,9 +17,6 @@ body {
     padding-left: 8px;
     margin-bottom: 6px;
     border-left: 2px solid black;
-}
-
-.quote-area q {
     font-family: serif;
     font-size: x-large;
 }
